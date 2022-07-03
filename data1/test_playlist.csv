@@ -1,0 +1,8 @@
+,valence,year,acousticness,artists,danceability,duration_ms,energy,explicit,id,instrumentalness,key,liveness,loudness,mode,name,popularity,release_date,speechiness,tempo,artists_song
+18953,0.47,2016,0.403,['Charlie Puth'],0.667,194453,0.613,0,7soJgKhQTO8hLP2JPRkL5O,0.0,1,0.115,-5.353,1,One Call Away,67,2016-01-29,0.0344,91.024,['Charlie Puth']One Call Away
+19373,0.797,2018,0.109,['Charlie Puth'],0.775,208787,0.613,0,5cF0dROlMOK5uNZtivgu50,2.33e-05,3,0.134,-4.586,0,Attention,81,2018-05-11,0.0542,100.066,['Charlie Puth']Attention
+74703,0.8109999999999999,2018,0.211,['Charlie Puth'],0.845,200853,0.561,0,6wmAHw1szh5RCKSRjiXhPe,3.49e-06,1,0.0383,-5.252999999999999,0,How Long,73,2018-05-11,0.0778,109.974,['Charlie Puth']How Long
+107932,0.23,2016,0.364,['Charlie Puth'],0.696,199133,0.517,0,6GBMbvX7sqyOxT5wWK4hgN,0.0,2,0.197,-8.379,0,Dangerously,55,2016-01-29,0.0366,112.291,['Charlie Puth']Dangerously
+140291,0.642,2018,0.314,['Charlie Puth'],0.755,186080,0.769,0,6qNALlmZa1ESnCxJmXE1K9,2.38e-06,10,0.0628,-5.658,0,The Way I Am,65,2018-05-11,0.186,114.966,['Charlie Puth']The Way I Am
+155545,0.797,2020,0.18,['Charlie Puth'],0.758,177438,0.583,0,1UNs8AlFM8c0uAkSyjIW3P,5.12e-05,1,0.107,-6.3610000000000015,1,Girlfriend,73,2020-06-23,0.0421,97.537,['Charlie Puth']Girlfriend
+170378,0.601,2019,0.0131,['Charlie Puth'],0.7490000000000001,196607,0.535,0,0ClPIeT6MSgfSgQ9ZrJbAq,3.65e-05,4,0.0982,-6.785,1,Cheating on You,68,2019-10-01,0.0336,123.042,['Charlie Puth']Cheating on You
